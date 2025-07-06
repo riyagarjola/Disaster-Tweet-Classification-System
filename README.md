@@ -1,5 +1,6 @@
-Here I build a machine learning model that can classify whether a tweet is about a real disaster or not. This helps emergency services and news outlets prioritize genuine disaster reports on social media.
 # 🌪 Disaster Tweet Classification System
+
+Here I build a machine learning model that can classify whether a tweet is about a real disaster or not. This helps emergency services and news outlets prioritize genuine disaster reports on social media.
 
 This project uses Natural Language Processing (NLP) and Machine Learning to classify whether a tweet is about a *real disaster* or not. It is inspired by a real-world problem where emergency response teams need to prioritize authentic disaster-related information from social media.
 
